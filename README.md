@@ -1,4 +1,4 @@
-# Best me App
+# Best of me App
 
 Aplicativo feito para estudo dos coiceitos de:
 
